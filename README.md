@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/chart.js-20232a.svg?style=for-the-badge&logo=chartdotjs&logoColor=#FF6384" />
 
   <h4 align="center">Backend</h4>
-  <img src="https://img.shields.io/badge/python-20232a.svg?style=for-the-badge&logo=python&logoColor=#3776AB" />
+  <img src="https://img.shields.io/badge/Flask-20232a.svg?style=for-the-badge&logo=flask&logoColor=#000000" />
   <img src="https://img.shields.io/badge/node.js-20232a.svg?style=for-the-badge&logo=nodedotjs&logoColor=#5FA04E" />
   <img src="https://img.shields.io/badge/spring-20232a.svg?style=for-the-badge&logo=spring&logoColor=#6DB33F" />
   
