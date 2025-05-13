@@ -12,12 +12,18 @@
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=#61DAFB" />
   <img src="https://img.shields.io/badge/Next-20232a.svg?style=for-the-badge&logo=nextdotjs&logoColor=#000000" />
 
+  <h4 align="center">library</h4>
+  <img src="https://img.shields.io/badge/React Router-20232a.svg?style=for-the-badge&logo=reactrouter&logoColor=#CA4245" />
+  <img src="https://img.shields.io/badge/Axios-20232a.svg?style=for-the-badge&logo=axios&logoColor=#5A29E4" />
+  <img src="https://img.shields.io/badge/chart.js-20232a.svg?style=for-the-badge&logo=chartdotjs&logoColor=#FF6384" />
+
   <h4 align="center">Backend</h4>
   <img src="https://img.shields.io/badge/python-20232a.svg?style=for-the-badge&logo=python&logoColor=#3776AB" />
   <img src="https://img.shields.io/badge/node.js-20232a.svg?style=for-the-badge&logo=nodedotjs&logoColor=#5FA04E" />
   <img src="https://img.shields.io/badge/spring-20232a.svg?style=for-the-badge&logo=spring&logoColor=#6DB33F" />
   
   <h4 align="center">database</h4>
-  <img src="https://img.shields.io/badge/mysql-20232a.svg?style=for-the-badge&logo=mysql&logoColor=#4479A1" />
   <img src="https://img.shields.io/badge/firebase-20232a.svg?style=for-the-badge&logo=firebase&logoColor=#DD2C00" />
+  <img src="https://img.shields.io/badge/supabase-20232a.svg?style=for-the-badge&logo=supabase&logoColor=#3FCF8E" />
+  <img src="https://img.shields.io/badge/mysql-20232a.svg?style=for-the-badge&logo=mysql&logoColor=#4479A1" />
 </div>
