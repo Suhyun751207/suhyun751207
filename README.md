@@ -29,6 +29,8 @@
 
   <h4 align="center">Tools</h4>
   <img src="https://img.shields.io/badge/VSCode-20232a.svg?style=for-the-badge&logo=visual-studio-code&logoColor=#22ABF3" />
+  <img src="https://img.shields.io/badge/intellij%20idea-20232a.svg?style=for-the-badge&logo=intellijidea&logoColor=#000000" />
+  <img src="https://img.shields.io/badge/Notion-20232a.svg?style=for-the-badge&logo=notion&logoColor=#000000" />
 </div>
 <br><br>
 
