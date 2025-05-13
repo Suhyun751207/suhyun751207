@@ -4,7 +4,7 @@
 <div align="center">
   <h2 align="center">✨ Tech Stack ✨</h2>
   <h4 align="center">Basic</h4>
-  <img src="https://img.shields.io/badge/Html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=#ffffff" />
+  <img src="https://img.shields.io/badge/Html5-20232a.svg?style=for-the-badge&logo=html5&logoColor=#E34F26" />
   <img src="https://img.shields.io/badge/css-20232a.svg?style=for-the-badge&logo=css&logoColor=#663399" />
   <img src="https://img.shields.io/badge/JavaScript-20232a.svg?style=for-the-badge&logo=javascript&logoColor=#F7DF1E" />
 
