@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/mysql-20232a.svg?style=for-the-badge&logo=mysql&logoColor=#4479A1" />
 
   <h4 align="center">Tools</h4>
-  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
+  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=#22ABF3" />
 </div>
 <br><br>
 
