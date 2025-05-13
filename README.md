@@ -10,7 +10,7 @@
 
   <h4 align="center">Frontend</h4>
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=#61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-20232a.svg?style=for-the-badge&logo=nextdotjs&logoColor=#000000" />
+  <img src="https://img.shields.io/badge/Next-20232a.svg?style=for-the-badge&logo=nextdotjs&logoColor=#000000" />
 
   <h4 align="center">Backend</h4>
   <img src="https://img.shields.io/badge/python-20232a.svg?style=for-the-badge&logo=python&logoColor=#3776AB" />
