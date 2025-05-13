@@ -27,3 +27,6 @@
   <img src="https://img.shields.io/badge/supabase-20232a.svg?style=for-the-badge&logo=supabase&logoColor=#3FCF8E" />
   <img src="https://img.shields.io/badge/mysql-20232a.svg?style=for-the-badge&logo=mysql&logoColor=#4479A1" />
 </div>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
