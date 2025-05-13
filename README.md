@@ -26,6 +26,9 @@
   <img src="https://img.shields.io/badge/firebase-20232a.svg?style=for-the-badge&logo=firebase&logoColor=#DD2C00" />
   <img src="https://img.shields.io/badge/supabase-20232a.svg?style=for-the-badge&logo=supabase&logoColor=#3FCF8E" />
   <img src="https://img.shields.io/badge/mysql-20232a.svg?style=for-the-badge&logo=mysql&logoColor=#4479A1" />
+
+  <h4 align="center">Tools</h4>
+  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
 </div>
 <br><br>
 
