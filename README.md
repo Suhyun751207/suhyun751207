@@ -4,8 +4,8 @@
   <h4 align="left">Basic</h4>
   <img src="https://img.shields.io/badge/Html5-20232a.svg?style=for-the-badge&logo=html5&logoColor=#E34F26" />
   <img src="https://img.shields.io/badge/css-20232a.svg?style=for-the-badge&logo=css&logoColor=#663399" />
-  <img src="https://img.shields.io/badge/JavaScript-20232a.svg?style=for-the-badge&logo=javascript&logoColor=#F7DF1E" />
   <img src="https://img.shields.io/badge/Python-20232a.svg?style=for-the-badge&logo=python&logoColor=#000000" />
+  <img src="https://img.shields.io/badge/JavaScript-20232a.svg?style=for-the-badge&logo=javascript&logoColor=#F7DF1E" />
   <img src="https://img.shields.io/badge/TypeScript-20232a.svg?style=for-the-badge&logo=TypeScript&logoColor=#0000ff" />
 
   <h4 align="left">Client</h4>
