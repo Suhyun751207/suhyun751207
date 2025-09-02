@@ -35,6 +35,6 @@
 </div>
 <br><br>
 
-![](https://komarev.com/ghpvc/?username=suhyun)<br><br>
+![](https://komarev.com/ghpvc/?username=suhyun751207)<br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suhyun751207&layout=compact&theme=dark)<br><br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhyun&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhyun751207&show_icons=true&theme=transparent)
