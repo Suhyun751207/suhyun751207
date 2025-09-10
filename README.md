@@ -46,9 +46,10 @@
   <br>
   <h4 align="left">Contact</h4>
 	<a href="mailto:23s607h0659@gmail.com">
-    <img
-      src="https://img.shields.io/badge/23s607h0659@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
+	  <img
+	    src="https://img.shields.io/badge/23s607h0659@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+	</a>
+
 </div>
 <br><br>
 
