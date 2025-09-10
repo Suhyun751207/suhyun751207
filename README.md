@@ -43,6 +43,12 @@
   <img src="https://img.shields.io/badge/intellij%20idea-20232a.svg?style=for-the-badge&logo=intellijidea&logoColor=#000000" />
   <img src="https://img.shields.io/badge/Notion-20232a.svg?style=for-the-badge&logo=notion&logoColor=#000000" />
   <img src="https://img.shields.io/badge/windsurf-20232a.svg?style=for-the-badge&logo=windsurf&logoColor=#000000" />
+  <br>
+  <h4 align="left">Contact</h4>
+	<a href="mailto:23s607h0659@gmail.com">
+    <img
+      src="https://img.shields.io/badge/23s607h0659@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+  </a>
 </div>
 <br><br>
 
