@@ -45,7 +45,7 @@
   <img src="https://img.shields.io/badge/windsurf-20232a.svg?style=for-the-badge&logo=windsurf&logoColor=#000000" />
   <br>
   <h4 align="left">Contact</h4>
-	<a href="mailto:23s607h0659@gmail.com">
+	<a href="https://mail.google.com/mail/?view=cm&to=23s607h0659@gmail.com" target="_blank">
 	  <img
 	    src="https://img.shields.io/badge/23s607h0659@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 	</a>
