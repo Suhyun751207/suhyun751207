@@ -28,6 +28,7 @@
   <h4 align="left">DataBase</h4>
     <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/mariadb-%23003545.svg?&style=for-the-badge&logo=mariadb&logoColor=white" />
+    <img src="https://img.shields.io/badge/postgresql-%23003545.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
     <img src="https://img.shields.io/badge/firebase-%23FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=black" />
     <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
     <img src="https://img.shields.io/badge/supabase-%233ECF8E.svg?&style=for-the-badge&logo=supabase&logoColor=white" />
