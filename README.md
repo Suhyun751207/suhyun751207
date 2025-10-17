@@ -55,5 +55,5 @@
 <br><br>
 
 ![](https://komarev.com/ghpvc/?username=suhyun751207)<br><br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suhyun751207&layout=compact&theme=dark)<br><br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhyun751207&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suhyun751207&layout=compact&theme=dark&cache_seconds=0)<br><br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhyun751207&show_icons=true&theme=transparent&cache_seconds=0)
