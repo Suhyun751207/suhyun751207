@@ -17,11 +17,12 @@ jobs:
           curl "https://github-readme-stats.vercel.app/api?username=suhyun751207&show_icons=true&theme=radical&count_private=true&include_all_commits=true&token=${{ secrets.GH_STATS_TOKEN }}" -o stats.svg
 
       - name: Commit and push stats.svg
+        env:
+          GH_STATS_TOKEN: ${{ secrets.GH_STATS_TOKEN }}
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
           git add stats.svg
           git commit -m "Update GitHub Stats" || echo "No changes"
           git push https://$GH_STATS_TOKEN@github.com/Suhyun751207/suhyun751207.git HEAD:main
-        env:
-          GH_STATS_TOKEN: ${{ secrets.GH_STATS_TOKEN }}
+
