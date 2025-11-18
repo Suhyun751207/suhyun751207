@@ -58,4 +58,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suhyun751207&layout=compact&theme=dark&cache_seconds=0)<br><br>
 [![suhyun7512's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhyun751207&show_icons=true&theme=radical&hide_title=false&hide_rank=false)](https://github.com/suhyun751207)<br><br>
 
-![GitHub Stats](stats.svg)
+![GitHub Stats](https://raw.githubusercontent.com/Suhyun751207/suhyun751207/main/stats.svg)
+
